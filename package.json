@@ -1,0 +1,15 @@
+{
+  "name": "3-col-preview-card-component",
+  "version": "1.0.0",
+  "description": "FrontendMentor-3ColPreviewCardComponentProject",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -i ./index.css -o ./main.css",
+    "watch": "tailwindcss -i ./index.css -o ./main.css --watch"
+  },
+  "author": "Harshit Bhardwaj",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
